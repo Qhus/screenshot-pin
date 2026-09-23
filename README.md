@@ -1,2 +1,7 @@
-# screenshot-pin
-Portable Windows releases of the screenshot and pin helper.
+# 截图贴图助手发行包
+
+这里只提供 Windows 便携发行包和 SHA256 校验值，不公开本地开发源码。
+
+本工具是个人制作的非官方办公辅助工具。请完整解压 ZIP 后运行，并遵守所在单位的软件安全策略。
+
+应用不自动联网检查、下载或安装更新。可在应用的“使用说明”中手动打开本仓库的 Releases 页面。
